@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxProgrammerGamer2012
 - 👀 I’m interested in programming and retro games
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m making my pseudo-OS
 - 📫 How to reach me: I'm in telegram, my phone number is +380631142563
 - ⚡ Fun fact: I don't know what to tell you
 
